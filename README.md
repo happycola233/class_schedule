@@ -26,7 +26,7 @@
 
 ### Excel样例
 
-| Period      | Monday        | Tuseday   | Wednesday | Thursday  | Friday    | Exception |
+| Period      | Monday        | Tuesday   | Wednesday | Thursday  | Friday    | Exception |
 | ----------- | ------------- | --------- | --------- | --------- | --------- | --------- |
 | 08:00-08:40 | 升旗仪式/班会 | 英语      | 英语      | 数学      | 数学      |           |
 | 08:50-09:30 | 英语          | 物理等级  | 英语      | 数学      | 地理等级  |           |
