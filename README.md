@@ -62,7 +62,11 @@
 
 ## 📸 运行截图
 
-![运行截图](ScreenShot.png "运行截图")
+### Windows 11 运行效果
+![运行截图](ScreenShot/Windows%2011.png "运行截图")
+
+### Windows 10 运行效果
+![运行截图](ScreenShot/Windows%2010.png "运行截图")
 
 ## 📦 作者的展望
 
