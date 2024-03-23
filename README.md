@@ -56,7 +56,7 @@
 
 ## 🛠️ 使用指南
 
-1. **安装依赖**：确保您的计算机上已安装Python环境，并通过 `pip install pywin32 wxpython pandas pywinstyles openpyxl xlrd`命令安装必要库。
+1. **安装依赖**：确保您的计算机上已安装Python环境，并通过 `pip install pywin32 wxpython pandas pywinstyles openpyxl xlrd BlurWindow`命令安装必要库。
 2. **准备Excel文件**：根据上述格式要求创建或编辑您的课程表Excel文件（目前仅支持 `.xls`和 `.xlsx`格式）。
 3. **配置文件**：如您正在使用 `v1.1`及以上的版本，您可以修改配置文件来自定义程序，如**课程表路径**、**字体**、**字体大小**、**字体颜色**、**当前课程字体颜色**、**是否隐藏标题栏**等
 4. **运行程序**：双击程序文件或在命令行中执行，程序将启动并显示用户界面。
