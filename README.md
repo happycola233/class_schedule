@@ -76,9 +76,13 @@
 
 ## 📸 运行截图
 
-### Windows 11 运行效果
+### Windows 11（浅色壁纸） 运行效果
 
-![运行截图](ScreenShot/Windows%2011.png "运行截图")
+![运行截图](ScreenShot/Windows%2011%20浅色壁纸.png "运行截图")
+
+### Windows 11（深色壁纸） 运行效果
+
+![运行截图](ScreenShot/Windows%2011%20深色壁纸.png "运行截图")
 
 ### Windows 10 运行效果
 
